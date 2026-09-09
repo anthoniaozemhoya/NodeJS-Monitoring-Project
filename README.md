@@ -43,6 +43,16 @@ Architecture
 │   Dashboards     │
 └──────────────────┘
 
+## Azure Deployment
+
+This application is deployed to Azure App Service for Linux using a Docker container stored in Azure Container Registry.
+
+Azure Services Used:
+- Azure App Service
+- Azure Container Registry
+- Azure Monitor
+- Application Insights
+
 Features
 Application Monitoring
 Health endpoint
