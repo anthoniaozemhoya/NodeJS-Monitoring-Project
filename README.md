@@ -42,6 +42,7 @@ Architecture
 │     Grafana      │
 │   Dashboards     │
 └──────────────────┘
+
 Features
 Application Monitoring
 Health endpoint
@@ -159,4 +160,4 @@ SRE Fundamentals
 
 Author
 Anthonia Ozemhoya
-Azure Support Engineer | DevOps Enthusiast | Cloud Engineer
+Azure Support Engineer | DevOps Engineer | Cloud Engineer
